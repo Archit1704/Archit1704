@@ -1,38 +1,45 @@
 # Hi, I'm Archit Sharma 👋
 
-I'm currently focused on learning and building skills in **DevOps, cloud infrastructure, and backend systems**.
+I'm currently focused on learning and building in **DevOps, cloud infrastructure, and backend systems**.
 
-I enjoy working with **Linux environments**, understanding how systems run behind the scenes, and learning how applications move from development to real-world deployment.
-
-Right now I'm exploring how different parts of a system connect together:
-
-* applications
-* servers
-* databases
-* deployment pipelines
-
-My goal is to build a strong foundation in **DevOps practices, automation, and cloud technologies** while continuing to improve my understanding of backend development.
+I spend most of my time working in **Linux environments**, exploring how systems run behind the scenes, and understanding how applications move from development to deployment.
 
 ---
 
-## What I'm currently working on
+## 🚀 What I'm Doing
 
-* Learning DevOps concepts and workflows
-* Deploying applications on cloud servers
+* Learning DevOps concepts through hands-on practice
+* Deploying applications on cloud servers (AWS)
 * Improving Linux and system administration skills
-* Understanding how real-world applications are deployed and maintained
+* Understanding how applications, servers, and databases connect
 
 ---
 
-## Goals
+## 🛠️ Current Focus
 
-* Build practical DevOps projects
-* Work with cloud platforms and containerization
+* DevOps workflows and fundamentals
+* Cloud platforms (AWS)
+* Backend basics and system design
+* Automation and scripting
+
+---
+
+## 📂 Projects
+
+Currently working on building and deploying real-world projects.
+More structured and production-level projects coming soon.
+
+---
+
+## 🎯 Goals
+
+* Build strong fundamentals in DevOps and cloud
+* Create real-world, deployable projects
+* Improve problem-solving and system thinking
 * Learn automation and infrastructure management
-* Continue improving problem-solving and system design skills
 
 ---
 
-## Contact
+## 📫 Contact
 
 📧 Email: [it.architsharma.69@gmail.com](mailto:it.architsharma.69@gmail.com)
