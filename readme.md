@@ -1,45 +1,20 @@
-# Hi, I'm Archit Sharma 👋
+# Archit Sharma
 
-I'm currently focused on learning and building in **DevOps, cloud infrastructure, and backend systems**.
+CS student exploring Linux, Docker, backend systems, and cloud infrastructure.
 
-I spend most of my time working in **Linux environments**, exploring how systems run behind the scenes, and understanding how applications move from development to deployment.
+Currently learning by building, breaking, and deploying projects on VPS/cloud environments.
 
----
+## Interests
+- Docker & containerization
+- Linux systems
+- Nginx & reverse proxies
+- Backend infrastructure
+- Cloud & deployment workflows
 
-## 🚀 What I'm Doing
+## Current Goal
+Getting better at building and deploying real-world applications instead of just following tutorials.
 
-* Learning DevOps concepts through hands-on practice
-* Deploying applications on cloud servers (AWS)
-* Improving Linux and system administration skills
-* Understanding how applications, servers, and databases connect
+## Projects
+Mostly experimenting with Dockerized apps, deployments, and backend setups.
 
----
-
-## 🛠️ Current Focus
-
-* DevOps workflows and fundamentals
-* Cloud platforms (AWS)
-* Backend basics and system design
-* Automation and scripting
-
----
-
-## 📂 Projects
-
-Currently working on building and deploying real-world projects.
-More structured and production-level projects coming soon.
-
----
-
-## 🎯 Goals
-
-* Build strong fundamentals in DevOps and cloud
-* Create real-world, deployable projects
-* Improve problem-solving and system thinking
-* Learn automation and infrastructure management
-
----
-
-## 📫 Contact
-
-📧 Email: [it.architsharma.69@gmail.com](mailto:it.architsharma.69@gmail.com)
+📫 Contact: it.architsharma.69@gmail.com
