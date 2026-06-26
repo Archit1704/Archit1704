@@ -1,85 +1,179 @@
-```markdown
-# Hi there, I'm Archit Sharma 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi, I'm Archit Sharma
 
-Backend & Infrastructure enthusiast focused on Linux, Docker, networking, and cloud deployments.
+```text
+Backend • Infrastructure • Linux • Docker • Cloud
+```
 
-Currently building production-style projects while learning how real systems are deployed, monitored, and maintained.
-
----
-
-## 🚀 What I'm Working On
-
-- Building containerized backend applications
-- Learning production Docker workflows
-- Exploring Linux systems and networking
-- Deploying applications on VPS environments
-- Studying cloud-native infrastructure and DevOps practices
+> Building production-style systems, breaking them, fixing them, and learning how modern infrastructure actually works.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ About Me
+
+```yaml
+Name: Archit Sharma
+Role: CS Student
+Focus:
+  - Backend Development
+  - Linux Systems
+  - DevOps
+  - Cloud Infrastructure
+
+Currently:
+  - Building Dockerized applications
+  - Learning production deployments
+  - Exploring monitoring & networking
+
+Goal:
+  Build systems that can survive outside localhost.
+```
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
-- Python
-- JavaScript
-- SQL
-- Bash
+
+```text
+Python • JavaScript • SQL • Bash
+```
 
 ### Backend
-- Flask
-- REST APIs
 
-### DevOps & Infrastructure
-- Docker
-- Docker Compose
-- Linux
-- Git
-- GitHub
-- Nginx
+```text
+Flask • REST APIs
+```
 
-### Databases
-- PostgreSQL
-- Redis *(Learning)*
+### DevOps
+
+```text
+Docker
+Docker Compose
+Linux
+Git
+GitHub
+Nginx
+```
+
+### Database
+
+```text
+PostgreSQL
+Redis (Learning)
+```
 
 ### Monitoring
-- Prometheus
-- Grafana
 
-### Currently Exploring
-- GitHub Actions
-- CI/CD
-- Kubernetes
-- AWS
-- Terraform
+```text
+Prometheus
+Grafana
+```
+
+### Cloud (Learning)
+
+```text
+AWS
+GitHub Actions
+CI/CD
+Kubernetes
+Terraform
+```
 
 ---
 
-## 📂 Featured Projects
+# 🚧 Current Projects
 
-### 🐳 Dockerized Applications
-Building multi-container applications using Docker Compose with PostgreSQL, Redis, volumes, custom networks, and health checks.
+### 🐳 Docker Labs
+
+Production-style Docker experiments
+
+* Multi-container applications
+* Healthchecks
+* Named volumes
+* Networks
+* Environment variables
+
+---
 
 ### 📊 Monitoring Stack
-Learning observability using Prometheus and Grafana for monitoring containerized services.
 
-### 🌐 Linux & VPS Deployments
-Deploying backend applications behind Nginx reverse proxies on Linux servers.
+Prometheus + Grafana
 
-### ⚙️ Infrastructure Labs
-A collection of Docker, Linux, networking, Bash scripting, and DevOps experiments.
+Learning
+
+* Metrics
+* Dashboards
+* Container Monitoring
 
 ---
 
-## 🎯 Current Focus
+### 🌐 Linux Server Labs
 
-Building projects that resemble real production environments instead of tutorial applications.
+Deploying applications on Linux VPS
+
+* Nginx Reverse Proxy
+* SSL
+* Systemd
+* SSH
+
+---
+
+### ⚙️ Infrastructure Playground
+
+Small experiments involving
+
+* Bash Automation
+* Linux Administration
+* Networking
+* PostgreSQL
+* Redis
+
+---
+
+# 📌 Currently Learning
+
+```text
+✔ Linux
+✔ Docker
+✔ Docker Compose
+✔ Git
+✔ GitHub
+✔ PostgreSQL
+
+⬜ Redis
+⬜ Monitoring
+⬜ CI/CD
+⬜ AWS
+⬜ Kubernetes
+⬜ Terraform
+```
+
+---
+
+# 📈 GitHub Goals (2026)
+
+* Build production-ready Docker projects
+* Deploy applications on VPS
+* Learn Kubernetes fundamentals
+* Build complete CI/CD pipelines
+* Contribute to Open Source
+
+---
+
+# 📫 Connect
+
+📧 **Email**
+
+```
+it.architsharma.69@gmail.com
+```
+
+💼 **LinkedIn**
+
+```
+linkedin.com/in/archit-sharma-01a9682aa
+```
+
+---
 
 > **Building. Breaking. Fixing. Repeating.**
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://linkedin.com/in/archit-sharma-01a9682aa
-- Email: it.architsharma.69@gmail.com
-```
