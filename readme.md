@@ -130,36 +130,6 @@ Small experiments involving
 
 ---
 
-# 📌 Currently Learning
-
-```text
-✔ Linux
-✔ Docker
-✔ Docker Compose
-✔ Git
-✔ GitHub
-✔ PostgreSQL
-
-⬜ Redis
-⬜ Monitoring
-⬜ CI/CD
-⬜ AWS
-⬜ Kubernetes
-⬜ Terraform
-```
-
----
-
-# 📈 GitHub Goals (2026)
-
-* Build production-ready Docker projects
-* Deploy applications on VPS
-* Learn Kubernetes fundamentals
-* Build complete CI/CD pipelines
-* Contribute to Open Source
-
----
-
 # 📫 Connect
 
 📧 **Email**
