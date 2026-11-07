@@ -13,7 +13,7 @@
 
 ---
 
-## `$ whoami`
+## ARCHIT SHARMA`
 
 I'm Archit, a Computer Science student pursuing hands-on training in **DevOps and Cloud Computing**.
 
