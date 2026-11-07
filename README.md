@@ -118,7 +118,7 @@ A responsive static portfolio built with HTML and CSS, intended for deployment o
 ## 🤝 Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/archit-sharma-01a9682aa">
+  <a href="https://www.linkedin.com/in/archit-sharma-0310ms">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Archit1704">
